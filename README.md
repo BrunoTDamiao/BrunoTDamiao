@@ -24,14 +24,10 @@ Git · GitHub · VS Code · Docker (iniciante) · Notion
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Previsão de renda](www.github.com/BrunoTDamiao/Previsao-de-renda) | Modelagem estatística e machine learning para previsão de renda, tratamento de
-dados ausentes, engenharia de features, análise de distribuição de renda. |
-| [Previsão e Clusterização](https://github.com/BrunoTDamiao/ProjetoSemantix)) | Processamento e limpeza de dados, análise exploratória de dados (EDA), modelagem
-preditiva (regressão e clustering), otimização de hiperparâmetros e validação de modelos |
-| [Análise de Risco](https://github.com/BrunoTDamiao/CreditScoreFinal) |  Desenvolvimento de modelo de score de crédito utilizando machine learning, seleção
-de variáveis, análise estatística de distribuição de risco. |
-| [Assistente Inteligente de Análise de Dados](https://github.com/BrunoTDamiao/data_ai) |  Desenvolvimento de chatbot especializado em análise de dados, integração com APIs
-para consultas automatizadas, NLP para interpretação de consultas em linguagem natural. |
+| [Previsão de renda](www.github.com/BrunoTDamiao/Previsao-de-renda) | Modelagem estatística e machine learning para previsão de renda, tratamento de dados ausentes, engenharia de features, análise de distribuição de renda. |
+| [Previsão e Clusterização](https://github.com/BrunoTDamiao/ProjetoSemantix)) | Processamento e limpeza de dados, análise exploratória de dados (EDA), modelagem preditiva (regressão e clustering), otimização de hiperparâmetros e validação de modelos |
+| [Análise de Risco](https://github.com/BrunoTDamiao/CreditScoreFinal) |  Desenvolvimento de modelo de score de crédito utilizando machine learning, seleção de variáveis, análise estatística de distribuição de risco. |
+| [Assistente Inteligente de Análise de Dados](https://github.com/BrunoTDamiao/data_ai) |  Desenvolvimento de chatbot especializado em análise de dados, integração com APIs para consultas automatizadas, NLP para interpretação de consultas em linguagem natural. |
 
 ---
 
